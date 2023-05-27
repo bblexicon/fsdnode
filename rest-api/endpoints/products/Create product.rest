@@ -2,8 +2,8 @@ POST http://localhost:5000/products
 content-type: application/json
 
 {
-    "name": "Apple iPhone 14",
-    "description": "Latest iPhone",
-    "price": 999,
+    "name": "Another Laptop",
+    "description": "Latest re-designed laptop",
+    "price": 1425,
     "category": "Mobiles"
 }
